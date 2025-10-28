@@ -1,0 +1,5 @@
+{
+  "name": "KTI Registration Form",
+  "description": "A student registration form for Kurdistan Technical Institute that can be exported to PDF.",
+  "requestFramePermissions": []
+}
